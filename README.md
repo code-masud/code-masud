@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Masud Rana</h1>
 
 <h3 align="center">
-Python Backend Developer | Django • DRF • FastAPI | Real-Time Systems | Scalable API Architecture
+Full-Stack Engineer | Web Applications & RESTful APIs
 </h3>
 
 <p align="center">
-Building scalable backend systems, real-time applications, and modern APIs with Python.
+Designing and developing secure, scalable, and high-performance backend systems, real-time web applications, and modern RESTful APIs with Python.
 </p>
 
 ---
