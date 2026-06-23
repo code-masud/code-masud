@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F5D4&center=true&vCenter=true&width=950&lines=Senior+Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect+%7C+System+Design;Backend+%7C+REST+APIs+%7C+Microservices;Production-Grade+Software+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F5D4&center=true&vCenter=true&width=950&lines=Professional+Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect+%7C+System+Design;Backend+%7C+REST+APIs+%7C+Microservices;Production-Grade+Software+Engineering" />
 </p>
 
 <h3 align="center">
