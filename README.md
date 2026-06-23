@@ -1,152 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=240&section=header&text=Masud%20Rana&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F5D4&center=true&vCenter=true&width=950&lines=Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect+%7C+System+Design;Backend+%7C+REST+APIs+%7C+Microservices;Production-Grade+Software+Engineering" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=800&color=00F5D4&center=true&vCenter=true&width=950&lines=Professional+Full+Stack+Engineer;Scalable+Systems+%7C+SaaS+Architect+%7C+System+Design;Backend+%7C+REST+APIs+%7C+Microservices;Production-Grade+Software+Engineering" />
+  <strong>Building scalable web applications, high-performance APIs, and cloud-ready systems with a strong focus on clean architecture, security, and maintainability.</strong>
 </p>
-
-<h3 align="center">
-Full Stack Engineer | Scalable Systems • SaaS • APIs • Automation
-</h3>
 
 <p align="center">
-I build production-grade web applications, scalable backend systems, and high-performance APIs for startups and businesses.  
-Focused on clean architecture, system design, and real-world scalability, I turn ideas into reliable software products.
+  <img src="https://img.shields.io/badge/Scalable-Systems-0e75b6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Secure-by%20Design-ff4d4d?style=flat-square"/>
+  <img src="https://img.shields.io/badge/High%20Performance-00c2ff?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-00ff88?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cloud%20Ready-AWS%20%7C%20Docker-orange?style=flat-square"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-masud&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
-## ⚡ Engineering Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scalable-Systems-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secure-by%20Design-ff4d4d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/High%20Performance-00c2ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Clean-Architecture-00ff88?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Ready-AWS%20%7C%20Docker-orange?style=for-the-badge"/>
-</p>
-
-## 🧠 Core Expertise
-
-### Backend Engineering
-- Python, Django, Django REST Framework (DRF)
-- FastAPI, Async APIs, WebSockets
-- RESTful API architecture & design
-- Microservices & modular backend systems
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,python,django,fastapi,flask,php,laravel" />
-</p>
-
-## 🎨 Frontend Engineering Focus
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Component--Driven-Architecture-0e75b6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Performance-Optimized-00c2ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Responsive-UI-ff4d4d?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/UX-Focused-00ff88?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,typescript,javascript,htmx,vue,react" />
-</p>
-
-### System Design & Architecture
-- Scalable SaaS architecture
-- Multi-tenant systems
-- Caching strategies (Redis)
-- Database design & optimization (PostgreSQL, MySQL)
-- Queue systems & background jobs
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,rabbitmq" />
-</p>
-
-### Authentication & Security
-- JWT, OAuth2, Session-based auth
-- Role-based access control (RBAC)
-- Secure API design principles
-<p align="center">
-  <img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge&logo=jsonwebtokens"/>
-  <img src="https://img.shields.io/badge/OAuth2-Secure%20Login-blue?style=for-the-badge&logo=auth0"/>
-  <img src="https://img.shields.io/badge/RBAC-Role%20Based%20Access-red?style=for-the-badge&logo=keycloak"/>
-</p>
-
-### Real-Time & Automation
-- WebSockets & real-time applications
-- Automation tools & scripts
-- Data processing pipelines
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ai,postman,gcp,py,pycharm" />
-</p>
-
-### Dev & Performance
-- API optimization & caching
-- Debugging production systems
-- Clean code & SOLID principles
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx" />
-</p>
-
-
-## 🚀 What I Build
-
-- SaaS Platforms (multi-user, scalable systems)
-- REST APIs for mobile & web apps
-- Real-time chat & notification systems
-- Automation tools & backend scripts
-- Business dashboards & admin panels
-- Secure authentication systems
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-masud&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-masud&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-masud&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-masud&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 Highlights
-
-- 🧩 Designed scalable backend systems for real-world applications  
-- ⚡ Built REST APIs handling high traffic and complex logic  
-- 🔒 Implemented secure authentication & authorization systems  
-- 📦 Developed reusable architecture for SaaS products  
-- 🚀 Focused on performance tuning & system optimization  
-
----
-
-## 🎯 Current Goals
-
-- Master Advanced System Design
-- Improve distributed system knowledge
-- Deep dive into DevOps & cloud infrastructure
-- Build scalable SaaS products
-
----
-
-## 📬 Let's Connect
 
 <p align="center">
   <a href="https://github.com/code-masud">
@@ -161,9 +27,37 @@ Focused on clean architecture, system design, and real-world scalability, I turn
 </p>
 
 ---
+## 🚀 Expertise
+
+- Custom Web Applications
+- Scalable SaaS Platforms
+- REST APIs & Microservices
+- System Design & Architecture
+- Real-Time Applications
+- Performance Optimization
+- Cloud & DevOps
+
+## 🛠️ Tech Stack & Core Expertise
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | `Python` `Django` `DRF` `FastAPI` `Flask` `PHP` `Laravel` `REST APIs` |
+| **Frontend Integration** | `HTML5` `CSS3` `JavaScript` `TypeScript` `HTMX` `Vue.js` `React` |
+| **Databases & Caching** | `PostgreSQL` `MySQL` `Redis` `MongoDB` `Supabase` `Firebase` |
+| **Architecture & Security** | `System Design` `Microservices` `JWT` `OAuth2` `RBAC` `RabbitMQ` |
+| **DevOps & Tools** | `Docker` `Linux` `Nginx` `AWS` `GCP` `Git` `Postman` |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,rabbitmq,typescript,htmx,vue,react,docker,aws" />
+</p>
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-⚡ Building scalable systems • Writing clean architecture • Shipping production-grade software ⚡
+  <img src="https://github-readme-stats.vercel.app/api?username=code-masud&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-masud&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
