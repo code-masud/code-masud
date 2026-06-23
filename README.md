@@ -122,10 +122,10 @@ I specialize in designing systems that are:
   <a href="https://github.com/code-masud">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/code-masud">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://www.fiverr.com/s/yvKg1pA">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
   </a>
 </p>
@@ -134,4 +134,8 @@ I specialize in designing systems that are:
 
 <p align="center">
 ⚡ Building scalable systems • Writing clean architecture • Shipping production-grade software ⚡
+</p>
+
+<p align="center">
+  <img src="https://github.com/code-masud/code-masud/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
